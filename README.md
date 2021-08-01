@@ -1,2 +1,3 @@
-# lms_group
-none
+welcome to lms
+
+hello nhom 1
